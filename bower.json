@@ -1,0 +1,23 @@
+{
+  "name": "poush.github.io",
+  "homepage": "http://ipiyush.com",
+  "authors": [
+    "Piyush Agrawal <poush12@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "CLOSED",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mui": "^0.6.0",
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  },
+  "private": true
+}
