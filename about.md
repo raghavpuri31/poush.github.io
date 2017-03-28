@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m Piyush Agrawal currently studying Information Technology Engineering at GGSIPU, Delhi, India. 
+I'm an active open source developer, created some of my own open source projects and contribute to different open source projects including phpmyadmin, fossasia, flarum to improve my skill set. I'm also shortlisted under top 2 for WorldSkills 2017 in Web Designing and Development from India.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
