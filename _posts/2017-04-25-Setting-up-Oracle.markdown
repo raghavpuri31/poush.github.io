@@ -5,7 +5,7 @@ date:   2017-04-25 13:26:44 +0530
 categories: general windows
 ---
 
-*This post is inspired from the questions of batchmates so major credits goes to them*
+A short simple guide to set up oracle database 11g on your windows system.
 
 # 1. Downloading Oracle 11g express
 Go to this [page](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html) to get download links 
@@ -26,7 +26,7 @@ An obvious step is to extract the downloaded zip
 
 What's next start with double-clicking setup.exe :D
 
-You will be asked for a password. Yo can put any password you want here but for now I'm putting "root" as password
+You will be asked for a password. You can put any password you want here but for now I'm putting "root" as password
 ![Entering Password](https://www.dropbox.com/s/105wqecbzr6xcqs/Capture-6.PNG?dl=1)
 
 Now complete setup process and that's all in installation.
@@ -47,3 +47,4 @@ Now after this you can directly use SQL commands or if you prefer, create new us
 
 ![SQL Command Line Usage](https://www.dropbox.com/s/oj28p2wp6gw0r9r/Capture-9.PNG?dl=1)
 
+*This post is inspired from the questions of my batchmates so major credits goes to them*
