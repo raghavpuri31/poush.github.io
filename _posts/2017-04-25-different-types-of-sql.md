@@ -2,8 +2,17 @@
 title: Different Types of SQL Commands
 layout: post
 categories: intro sql
-date: '2017-04-25 04:41:40'
+date:   2017-04-25 13:26:44 +0530
+categories: general windows
+tag:
+- sql
+- DDL
+- DML
+- DCL
+star: true
+author: poush
 ---
+
 
 Structured Query Language (aka "SQL") is created for managing RDBMS ( Relational Database Management Systems )
 
