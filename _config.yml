@@ -1,0 +1,103 @@
+# main text of home
+name: Piyush Agrawal
+bio: A lazy person on a mission to make things easy
+
+# twitter summary info
+description: A personal blog. I write about my experiences and tech stuff
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpeg
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://www.dropbox.com/s/7dkpzivl8l5r6q6/Piyush-Resume-04.pdf?dl=0
+
+url: http://ipiyush.com
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+analytics-google: 'UA-98119900-1'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname:  # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+facebook: mepiyush97
+twitter: mepoush
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: poush
+# youtube: myyoutube
+# spotify: myspotify
+github: poush
+# lastfm: mylastfm
+stackoverflow: 2686338/poush
+# quora: userquora
+# reddit: username
+# medium: 
+# vimeo: myvimeo
+email: me@ipiyush.com
+
+authors:
+    poush:
+        name: Piyush Agrawal
+        bio: A lazy person on a mission to make things easy
+        external-image: false
+        picture: assets/images/profile.jpeg
+        twitter: mepoush
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: false
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+
+jekyll-mentions:
+    base_url: https://github.com
+
