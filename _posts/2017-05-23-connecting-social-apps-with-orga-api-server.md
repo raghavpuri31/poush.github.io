@@ -17,7 +17,6 @@ date: '2017-05-23 04:11:24'
 ## Addition of a feature to Orga API Server
 ### *Ability to connect your social apps with orga server*
 
-Options to connect your social 
 
 __*What's going to add?*__
 
@@ -131,3 +130,4 @@ Settings > Applications
 ```
 
 *How it Works*
+![Download](https://www.dropbox.com/s/ra0fi45mo7i6jby/ScreenFlow.gif?dl=1)
