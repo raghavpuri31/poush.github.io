@@ -1,16 +1,17 @@
 ---
+title: Using Cloud storage for event exports
 layout: post
-title:  "Using Cloud storage for event exports"
-date:   2017-05-09 13:26:44 +0530
+date: '2017-05-09 13:26:44 +0530'
 categories: fossasia
-layout: post
 tag:
 - fossasia
 - tech
 - open-event
+- tech
 star: true
 author: poush
 ---
+
 Open-event orga server provides ability to organizer to create complete export of the event they created. Currently when an organizer triggers the export in orga server, A celery job is set to complete the export task resulting asynchronous completion of the job. Organizer gets the download button enabled once export is ready.
 
 Till now the main issue was related with storage of those export zip files. All exported zip files were stored directly in local storage and that even not by using storage module created under orga server.
