@@ -14,7 +14,7 @@ picture: assets/images/profile.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.dropbox.com/s/7dkpzivl8l5r6q6/Piyush-Resume-04.pdf?dl=0
+resume-url: assets/pdfs/Piyush-Resume08.pdf
 
 url: http://ipiyush.com
 # your url: http://USERNAME.github.io
