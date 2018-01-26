@@ -1,6 +1,6 @@
 # main text of home
-name: Piyush Agrawal
-bio: A lazy person on a mission to make things easy
+name: Raghav Puri
+bio: Believes in Destiny. Loves to code,play & sing.
 
 # twitter summary info
 description: A personal blog. I write about my experiences and tech stuff
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/pdfs/Piyush-Resume08.pdf
 
-url: http://ipiyush.com
+url: http://raghavp.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,22 +34,22 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: mepiyush97
-twitter: mepoush
+facebook: raghavpuri031
+twitter: raghavpuri31
 # google: mygoogle
-# instagram: myinstagram
+instagram: raghavpuri31
 # pinterest: mypinterest
-linkedin: poush
+linkedin: raghavpur31
 # youtube: myyoutube
 # spotify: myspotify
-github: poush
+github: raghavpuri31
 # lastfm: mylastfm
-stackoverflow: 2686338/poush
+#stackoverflow: 2686338/poush
 # quora: userquora
 # reddit: username
 # medium: 
 # vimeo: myvimeo
-email: me@ipiyush.com
+email: raghavpuri31@gmail.com
 
 authors:
     poush:
@@ -57,7 +57,7 @@ authors:
         bio: A lazy person on a mission to make things easy
         external-image: false
         picture: assets/images/profile.jpeg
-        twitter: mepoush
+        twitter: raghavpuri31
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
