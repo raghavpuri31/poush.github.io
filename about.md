@@ -4,7 +4,7 @@ layout: page
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<p>I'm currently studying Electronics & Communications Engineering (ECE) at Bharati Vidyapeeth's College Of Engineering, New Delhi, India. I’m an active open source developer, created some of my own open source projects and contribute to different open source projects improve my skills set. 
+<p> I'm currently pursuing Masters in Computer Science at The University of Texas at Dallas, Texas, US. I’m an active open source developer, created some of my own open source projects and contribute to different open source projects improve my skills set. Currently, I am looking for Software Engineering Internship for Summer 2020.
 
 
 <h2>Skills</h2>
