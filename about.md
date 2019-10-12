@@ -15,7 +15,7 @@ layout: page
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Java (Design Patterns, Testes)</li>
 	<li>Git</li>
-	<li>Python</li>
+	<li>Python, Computer Vision</li>
 	<li>MySQL</li>
 	<li>C++, Android</li>
 </ul>
