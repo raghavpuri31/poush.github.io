@@ -1,6 +1,6 @@
 # main text of home
 name: Raghav Puri
-bio: Believes in Destiny. Loves to code,play & sing.
+bio: Believes in Destiny. Loves to code, play & sing.
 
 # twitter summary info
 description: A personal blog. I write about my experiences and tech stuff
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/pdfs/CV.pdf
+resume-url: assets/pdfs/Raghav Puri.pdf
 
 url: http://raghavp.com
 # your url: http://USERNAME.github.io
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: raghavpuri031
-twitter: raghavpuri31
+twitter: raghavpuri3
 # google: mygoogle
 instagram: raghavpuri31
 # pinterest: mypinterest
@@ -49,7 +49,7 @@ github: raghavpuri31
 # reddit: username
 # medium: 
 # vimeo: myvimeo
-email: raghavpuri31@gmail.com
+email: raghav.puri31@utdallas.edu
 
 authors:
     poush:
